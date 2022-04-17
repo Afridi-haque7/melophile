@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/melophile/static/css/main.0936d920.chunk.css",
+    "main.js": "/melophile/static/js/main.5fd10abe.chunk.js",
+    "main.js.map": "/melophile/static/js/main.5fd10abe.chunk.js.map",
+    "runtime-main.js": "/melophile/static/js/runtime-main.60bbe136.js",
+    "runtime-main.js.map": "/melophile/static/js/runtime-main.60bbe136.js.map",
+    "static/js/2.a0bb953e.chunk.js": "/melophile/static/js/2.a0bb953e.chunk.js",
+    "static/js/2.a0bb953e.chunk.js.map": "/melophile/static/js/2.a0bb953e.chunk.js.map",
+    "static/js/3.4f0a5c8b.chunk.js": "/melophile/static/js/3.4f0a5c8b.chunk.js",
+    "static/js/3.4f0a5c8b.chunk.js.map": "/melophile/static/js/3.4f0a5c8b.chunk.js.map",
+    "index.html": "/melophile/index.html",
+    "static/css/main.0936d920.chunk.css.map": "/melophile/static/css/main.0936d920.chunk.css.map",
+    "static/js/2.a0bb953e.chunk.js.LICENSE.txt": "/melophile/static/js/2.a0bb953e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.60bbe136.js",
+    "static/js/2.a0bb953e.chunk.js",
+    "static/css/main.0936d920.chunk.css",
+    "static/js/main.5fd10abe.chunk.js"
+  ]
+}
